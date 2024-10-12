@@ -9,6 +9,8 @@ While telehealth has rapidly grown, many platforms face issues related to securi
 TONMed addresses these challenges by leveraging AI for early diagnostics, decentralized health data management, secure patient-doctor interactions, and continuous patient monitoring, all within Telegram's ecosystem. With the power of the TON blockchain, TONMed ensures data privacy, real-time collaboration, and a more accessible, efficient, and secure healthcare experience for patients and professionals alike.
 
 **Step-by-Step Implementation of TONMed**
+
+
 Define the Core Features & Architecture
 Begin by outlining the key features of TONMed, such as AI-powered diagnostics, decentralized health data storage, secure telehealth consultations, and patient monitoring. Define the architecture that will combine these features, focusing on how the TON blockchain, AI algorithms, and Telegram will interact.
 
@@ -75,9 +77,7 @@ Expand to additional healthcare institutions and regions
 Integrate user feedback for better user experience and feature improvements
 Final Thoughts:
 The implementation of TONMed relies on effectively combining AI diagnostics, secure blockchain-based data management, and a seamless Telegram interface to deliver a decentralized and secure healthcare platform. By following this step-by-step guide, TONMed can deliver early diagnostics, secure consultations, and enhanced patient-doctor interactions all within a decentralized and secure environment.
-**UI&UX TONMED**
-![Onboarding 01](https://github.com/user-attachments/assets/6eded1b0-169c-498e-affd-0e438e75380a)
-<img width="244" alt="Screenshot 2024-10-12 at 5 25 47 PM" src="https://github.com/user-attachments/assets/2c2b2813-4a92-412b-ab1d-2f9c4d23bfe4">
+
 
 
 
