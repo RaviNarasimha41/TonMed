@@ -80,4 +80,7 @@ The implementation of TONMed relies on effectively combining AI diagnostics, sec
 
 
 
+<img width="244" alt="Screenshot 2024-10-12 at 5 46 33 PM" src="https://github.com/user-attachments/assets/24363164-f723-4de6-aef5-6975e132e0e2">
+<img width="244" alt="Screenshot 2024-10-12 at 5 25 47 PM" src="https://github.com/user-attachments/assets/4d6946f8-769d-4248-a26b-774d5d006b45">
+
 
